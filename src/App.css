@@ -17,7 +17,7 @@ input{
   border: none;
   width: 100%;
   height: 30px;
-  
+  padding: 5px;
 }
 
 .grid-centre{

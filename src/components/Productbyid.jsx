@@ -35,7 +35,7 @@ const ProductView = () => {
             onChange={(e) => setProductId(e.target.value)}
             placeholder="Enter Product ID"
           />
-          <button className='prdct-btn' type="submit">View Product</button>
+          <button className='prdct-btn grid-centre' type="submit">View Product</button>
         </form>
         
       </div>
